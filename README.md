@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Minha tragetória em TI teve inicio em julho de 2017, quando iniciei a faculdade de Sistemas de Informação.
+- Minha trajetória em TI teve inicio em julho de 2017, quando iniciei a faculdade de Sistemas de Informação.
 - Meu primeiro contato profissional na área foi atuando com Suporte N2 ao Usuário
 - Porém, desde o inicio, sempre fui apaixonado por desenvolvimento e hoje estudo as stacks de Front-End e Data Science/Machine Learning
 - Hoje estou cursando pós-graduação em Projetos de Aplicativos Multiplataforma
