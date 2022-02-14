@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Minha trajetória em TI teve inicio em julho de 2017, quando iniciei a faculdade de Sistemas de Informação.
-- Meu primeiro contato profissional na área foi atuando como Suporte N2 ao Usuário
-- Porém, desde o inicio, sempre fui apaixonado por desenvolvimento e hoje estudo as stacks de Front-End e Data Science/Machine Learning
+- Sempre fui apaixonado por desenvolvimento e hoje estudo as stacks de Front-End e Data Science/Machine Learning
 - Hoje estou cursando pós-graduação em Projetos de Aplicativos Multiplataforma
 - Ao longo de meus estudos pretendo desenvolver alguns projetos que serão disponibilizados aqui.
