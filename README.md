@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Minha trajetória em TI teve inicio em julho de 2017, quando iniciei a faculdade de Sistemas de Informação.
-- Sempre fui apaixonado por desenvolvimento e hoje estudo as stacks de Front-End e Data Science/Machine Learning
-- Hoje estou cursando pós-graduação em Projetos de Aplicativos Multiplataforma
-- Ao longo de meus estudos pretendo desenvolver alguns projetos que serão disponibilizados aqui.
+Minha trajetória em TI teve inicio em 2017, quando iniciei a faculdade de Sistemas de Informação. Sempre fui apaixonado por desenvolvimento e hoje estudo as stacks de Front-End e Data Science/Machine Learning. Atualmente estou cursando pós-graduação em Projetos de Aplicativos Multiplataforma. Ao longo de meus estudos pretendo desenvolver alguns projetos que serão disponibilizados aqui.
