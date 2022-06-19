@@ -7,6 +7,9 @@
 
 <div>
   <h3>Oi, eu sou o Thiago 👋</h3>
+  <p>Bacharel em Sistemas de Informação pelo Centro Universitário do Norte (Uninorte). Atualmente cursando MBA em Gestão de Negócios de Tecnologia da Informação e Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma.
+
+Atualmente, estou focado em expandir minhas habilidades em desenvolvimento web front end e back end, utilizando tecnologias como HTML, CSS, Javascript, ReactJS, Bootstrap, NodeJS, entre outros.</p>
 </div>
 
 ##
