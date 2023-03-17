@@ -6,10 +6,11 @@
 -->
 
 <div>
-  <h3>Oi, eu sou o Thiago 👋</h3>
-  <p>Bacharel em Sistemas de Informação pelo Centro Universitário do Norte (Uninorte). Atualmente cursando MBA em Gestão de Negócios de Tecnologia da Informação e Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma.
+  <h3>Hi, I'm Thiago 👋</h3>
+  <p>
+I hold a Bachelor's degree in Information Systems from the Centro Universitário do Norte (Uninorte). Currently, I'm pursuing an MBA in Information Technology Business Management and a post-graduation degree in Multi-platform Mobile Application Projects.
 
-Atualmente, estou focado em expandir minhas habilidades em desenvolvimento web front end e back end, utilizando tecnologias como HTML, CSS, Javascript, ReactJS, Bootstrap, NodeJS, entre outros.</p>
+Currently, I'm focused on expanding my skills in front-end and back-end web development, using technologies such as HTML, CSS, JavaScript, ReactJS, Bootstrap, NodeJS, among others.
 </div>
 
 ##
